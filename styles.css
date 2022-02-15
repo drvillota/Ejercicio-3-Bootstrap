@@ -1,0 +1,47 @@
+body {
+    background:whitesmoke;
+    font-size: 14px;
+}
+
+header {
+    background-color: rgb(122, 72, 18);
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+footer {
+    background-color: rgb(122, 72, 18);
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+#LeftMenu {
+    padding-top: 5px;
+    background-color: orange;
+}
+
+#RightMenu {
+    background-color: whitesmoke;
+}
+
+#TopMenu {
+    padding: 5px;
+    background-color: rgb(216, 154, 112);
+    justify-content: center;
+}
+
+#Content {
+    height: 24.5rem;
+    justify-content: center;
+    padding: 11rem;
+}
+
+#Pink {
+    background-color: rgb(241, 163, 176);
+    justify-content: center;
+}
+
+#Blue {
+    background-color: rgb(0, 140, 255);
+    justify-content: center;
+}
